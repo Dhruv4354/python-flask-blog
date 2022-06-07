@@ -1,0 +1,22 @@
+
+
+{"params":
+{
+    "local_server":"True",
+    "local_server_URI":"mysql://root:@localhost/database",
+    "prod_server":"False",
+    "prod_server_URI":"mysql://root:@localhost/database",
+    "fb_account":"https://www.facebook.com/",
+    "git_account":"https://github.com/",
+    "twitter_account":"/",
+    "about-me":"Hello My Name Is Shaurya Rautela I read in Class X in Jaypee Vidya Mandir",
+    "no_of_post":3,
+    "gmail_user":"your gmail Id",
+    "gmail_passwd":"Your gmail password",
+    "admin_user":"Dracx",
+    "admin_passwd":"newpassword",
+    "login_image":"login.jpg",
+    "upload_location":"C:\\Users\\dhruv\\OneDrive\\Documents\\document\\flask-minimal-website-main\\static\\assets\\img"
+}
+
+}
